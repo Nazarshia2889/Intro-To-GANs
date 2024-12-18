@@ -1,2 +1,2 @@
 # Intro-To-GANs
-Introductory Notebook for GANs
+Introductory notebook for Generative Adversarial Networks (GANs)
